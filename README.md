@@ -15,7 +15,7 @@ As title.
 Translations and pull requests **will still be processed**, but we encourage you to
 take over this project and develope on your own.
 
-## ![download](https://github.com/Templarian/MaterialDesign/blob/master/svg/download.svg)Download
+## Download
 [>>> Download on Google Play <<<](https://play.google.com/store/apps/details?id=rbq2012.blocktopograph)  
 [![Google Play](https://lh3.googleusercontent.com/qF9r3ZjtgG-qyHdmjecArtKiulz1gmwL_xl9R3_fzk6igSeoN0wYbJSKEX5d_fxJRwYZJpHbqcLB3i9atl-9dOfUl9an7U43TfZ9PtQ=s0)](https://play.google.com/store/apps/details?id=rbq2012.blocktopograph)
 
@@ -23,7 +23,7 @@ And release page of the repository provides debug version of the app.
 <img src="arts/scr02.png" alt="screenshot" width="320"/>
 <img src="arts/scr03.png" alt="screenshot" width="320"/>
 
-## ![build](https://github.com/Templarian/MaterialDesign/blob/master/icons/svg/camera-front-variant.svg)Build
+## Build
 
 Clone project in Android Studio: `File -> New -> Project from Version Control -> Git`  
 Install missing SDK components. Android Studio would give you the auto-fix options.  
